@@ -1,0 +1,99 @@
+{
+"activities" : [
+    {
+        "id": 1429,
+        "title": "Al cospetto dei giganti della valle Maira (inizio giugno)"
+    },
+    {
+        "id": 1560,
+        "title": "Al cospetto dei giganti della valle Maira (settembre)"
+    },
+    {
+        "id": 1557,
+        "title": "Al cospetto dei giganti della valle Maira (fine giugno)"
+    },
+    {
+        "id": 1553,
+        "title": "Nel cuore delle Dolomiti del Piemonte (settembre)"
+    },
+    {
+        "id": 1549,
+        "title": "Giro del Monviso (metà agosto)"
+    },
+    {
+        "id": 1545,
+        "title": "Giro del Monviso (settembre)"
+    },
+    {
+        "id": 1541,
+        "title": "Nel cuore delle Dolomiti del Piemonte (agosto)"
+    },
+    {
+        "id": 1537,
+        "title": "Nel cuore delle Dolomiti del Piemonte (luglio)"
+    },
+    {
+        "id": 1533,
+        "title": "Giro del Monviso (inizio agosto)"
+    },
+    {
+        "id": 1565,
+        "title": "Ciaspolata al colle dell'Ortiga"
+    },
+    {
+        "id": 1424,
+        "title": "Nel cuore delle Dolomiti del Piemonte (giugno)"
+    },
+    {
+        "id": 1383,
+        "title": "Giro del Monviso (luglio)"
+    },
+    {
+        "id": 1120,
+        "title": "Corso per affrontare in sicurezza tratti ghiacciati o con neve dura"
+    },
+    {
+        "id": 1130,
+        "title": "Corso avanzato di nivologia"
+    }
+],
+
+"participants" : [
+    {
+        "order": 1625,
+        "qty": 1,
+        "billing_last_name": "Margaria",
+        "billing_first_name": "Romano",
+        "billing_email": "r.margaria@outlook.it",
+        "billing_phone": "3407270046",
+        "variation_id": 0,
+        "variation": "n/a",
+        "present": "no",
+        "present_timestamp": "n/a"
+    },
+    {
+        "order": 1614,
+        "qty": 2,
+        "billing_last_name": "FERRARO",
+        "billing_first_name": "Antimo",
+        "billing_email": "mimmo.ferraro@alice.it",
+        "billing_phone": "3388069430",
+        "variation_id": 0,
+        "variation": "n/a",
+        "present": "no",
+        "present_timestamp": "n/a"
+    },
+    {
+        "order": 1418,
+        "qty": 1,
+        "billing_last_name": "bonello",
+        "billing_first_name": "mariella",
+        "billing_email": "mariella.bonello@alice.it",
+        "billing_phone": "3421656116",
+        "variation_id": 0,
+        "variation": "n/a",
+        "present": "no",
+        "present_timestamp": "n/a"
+    }
+]
+}
