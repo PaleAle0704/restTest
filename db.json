@@ -57,9 +57,7 @@
         "title": "Corso avanzato di nivologia"
     }
 ],
-
-"1120" : [
-    {
+    
 "participants" : [
     {
         "order": 1625,
@@ -96,8 +94,6 @@
         "variation": "n/a",
         "present": "no",
         "present_timestamp": "n/a"
-    }
-]
     }
 ]
 }
